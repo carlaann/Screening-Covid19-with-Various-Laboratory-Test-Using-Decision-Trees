@@ -1,4 +1,4 @@
-## Project name: Machine Learning of Covid19 Spread Analysis Using Polynomial Regression 
+## Screening Covid19 with Various Laboratory Test Using Decision Trees 
 
 #
 Description: COVID-19 is a newly discovered infectious disease that can cause mild to severe respiratory illness.  It appears those with underlying conditions such as diabetes, hypertension, cardiovascular disease, and other serious illness are more at risk.  COVID-19 is an RNA virus which belongs to the family coronavirus and was initially emerged in China around December 2019.  The wide spread of this virus has become a pandemic. The COVID-19 pandemic have many scrambling all over the world trying to contain the spread of the virus.  Many people were requested to stay at home if they do not have severe symptoms while others are walking around asymptomatic who can possibly spread the virus. Since the start there were numerous difficulties, for example, the absence of testing which includes testing facilities , testing materials, faulty testing material, reporting mechanism, and more. 

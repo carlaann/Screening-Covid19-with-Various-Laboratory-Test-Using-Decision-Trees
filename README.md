@@ -11,7 +11,12 @@ Dataset:  https://www.kaggle.com/einsteindata4u/covid19?select=dataset.xlsx
 -a) Prerequisites
  - Python 3 or Anaconda distribution with Python 3.
  - Jupyter or any notebook.
-
+ - os
+ - pandas
+ - numpy
+ - matplotlib
+ - sklearn
+#
 3) Usage:
 # 
 This project can be used to provide insights on other laboratory test to predict Covid-19 if a more accurate dataset was provided while waiting
